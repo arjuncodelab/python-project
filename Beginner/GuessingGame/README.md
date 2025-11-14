@@ -90,6 +90,8 @@ Python 3.x
 
 ## About This Project
 
+'''
 git clone https://github.com/yourusername/number-guessing-game.git
 cd number-guessing-game
 https://roadmap.sh/projects/number-guessing-game
+'''
