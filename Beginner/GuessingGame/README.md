@@ -90,4 +90,6 @@ Python 3.x
 
 ## About This Project
 
-This is one of my early beginner-level Python projects. I will continue updating this repository with new projects as I learn more.
+git clone https://github.com/yourusername/number-guessing-game.git
+cd number-guessing-game
+https://roadmap.sh/projects/number-guessing-game
