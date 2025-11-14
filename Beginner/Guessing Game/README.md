@@ -5,8 +5,9 @@ This is a simple Python-based number guessing game where the computer randomly s
 ---
 
 ## Project Link
+Project link here:
+[https://roadmap.sh/projects/number-guessing-game]
 
-Place your project link here:
 [https://github.com/arjuncodelab/python-project/tree/main/Beginner/Guessing%20Game]
 
 ---
