@@ -32,7 +32,8 @@ A simple command-line game where the user guesses a randomly generated number wi
 
 To explore the projects locally:
 - git clone [https://github.com/arjuncodelab/python-project]
-Then open the project folders to check the source code and follow any instructions inside each project’s README.
+
+  Then open the project folders to check the source code and follow any instructions inside each project’s README.
 
 ---
 
