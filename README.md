@@ -47,7 +47,7 @@ To explore the projects locally:
 ---
 
 ## Learning Resource
--Roadmap:- [Roadmap/Python](https://roadmap.sh/python)
+-Roadmap:- [Roadmap Project](https://roadmap.sh/projects)
 
 ---
 
