@@ -5,7 +5,7 @@ This is a simple Python-based number guessing game where the computer randomly s
 ---
 
 ## Project Link
-- [Project URL](https://roadmap.sh/projects/number-guessing-game)
+- [Project URL][(https://roadmap.sh/projects/number-guessing-game)](https://roadmap.sh/projects/number-guessing-game)
 
 From:
 - https://roadmap.sh/projects
