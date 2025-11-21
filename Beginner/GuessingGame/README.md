@@ -93,7 +93,7 @@ Python 3.x
 
 ## About This Project
 ```bash
-git clone https://github.com/yourusername/number-guessing-game.git
+git clone https://github.com/arjuncodelab/number-guessing-game.git
 cd number-guessing-game
 # See the original challenge: https://roadmap.sh/projects/number-guessing-game
 ```
